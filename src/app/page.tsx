@@ -112,6 +112,10 @@ export default function LandingPage() {
       ]}
       title="Signature Dishes"
       description="Explore our chef-curated selection of traditional Italian favorites."
+      buttons={[
+        {
+          text: "View Full Menu",          href: "#menu"}
+      ]}
     />
   </div>
 
