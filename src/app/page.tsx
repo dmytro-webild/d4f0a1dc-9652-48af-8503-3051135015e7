@@ -56,7 +56,7 @@ export default function LandingPage() {
           handle: "@janed",
           testimonial: "The best authentic pasta I have had in years!",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/classic-luxury-restaurant-with-tables-chairs_140725-9388.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/classic-luxury-restaurant-with-tables-chairs_140725-9388.jpg?_wi=1",
           imageAlt: "elegant italian restaurant interior",
         },
         {
@@ -72,7 +72,7 @@ export default function LandingPage() {
           handle: "@lisak",
           testimonial: "Nonni G feels just like home.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/glasses-various-dry-uncooked-pasta-blue-background_114579-45677.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/glasses-various-dry-uncooked-pasta-blue-background_114579-45677.jpg?_wi=1",
           imageAlt: "elegant italian restaurant interior",
         },
         {
@@ -80,7 +80,7 @@ export default function LandingPage() {
           handle: "@davidp",
           testimonial: "A must-visit for any Italian food enthusiast.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/delicious-plate-italian-pasta_23-2148189927.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/delicious-plate-italian-pasta_23-2148189927.jpg?_wi=1",
           imageAlt: "elegant italian restaurant interior",
         },
         {
@@ -88,11 +88,11 @@ export default function LandingPage() {
           handle: "@sarahw",
           testimonial: "Simply wonderful, five stars all the way.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/vegetable-salad-with-fried-shrimps_140725-44339.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/vegetable-salad-with-fried-shrimps_140725-44339.jpg?_wi=1",
           imageAlt: "elegant italian restaurant interior",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/classic-luxury-restaurant-with-tables-chairs_140725-9388.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/classic-luxury-restaurant-with-tables-chairs_140725-9388.jpg?_wi=2"
       avatars={[
         {
           src: "http://img.b2bpic.net/free-photo/close-up-people-spending-time-together_23-2149152906.jpg",
@@ -143,7 +143,7 @@ export default function LandingPage() {
             "Tradition",
             "Fresh",
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/glasses-various-dry-uncooked-pasta-blue-background_114579-45677.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/glasses-various-dry-uncooked-pasta-blue-background_114579-45677.jpg?_wi=2",
         },
         {
           id: "f2",
@@ -152,7 +152,7 @@ export default function LandingPage() {
             "Authentic",
             "Crispy",
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/delicious-plate-italian-pasta_23-2148189927.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/delicious-plate-italian-pasta_23-2148189927.jpg?_wi=2",
         },
         {
           id: "f3",
@@ -161,7 +161,7 @@ export default function LandingPage() {
             "Seasoned",
             "Chef",
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/vegetable-salad-with-fried-shrimps_140725-44339.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/vegetable-salad-with-fried-shrimps_140725-44339.jpg?_wi=2",
         },
       ]}
       title="Signature Dishes"
