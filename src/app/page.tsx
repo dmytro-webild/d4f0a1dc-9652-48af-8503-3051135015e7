@@ -51,21 +51,21 @@ export default function LandingPage() {
       testimonials={[
         {
           name: "Jane D.",          handle: "@janed",          testimonial: "The best authentic pasta I have had in years!",          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/classic-luxury-restaurant-with-tables-chairs_140725-9388.jpg",          imageAlt: "elegant italian restaurant interior"},
+          imageSrc: "http://img.b2bpic.net/free-photo/classic-luxury-restaurant-with-tables-chairs_140725-9388.jpg?_wi=1",          imageAlt: "elegant italian restaurant interior"},
         {
           name: "Mark S.",          handle: "@marks",          testimonial: "Exquisite service and even better food.",          rating: 5,
           imageSrc: "http://img.b2bpic.net/free-photo/two-leather-yellow-armchairs-coffee-table-restaurant_140725-8902.jpg",          imageAlt: "elegant italian restaurant interior"},
         {
           name: "Lisa K.",          handle: "@lisak",          testimonial: "Nonni G feels just like home.",          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/glasses-various-dry-uncooked-pasta-blue-background_114579-45677.jpg",          imageAlt: "elegant italian restaurant interior"},
+          imageSrc: "http://img.b2bpic.net/free-photo/glasses-various-dry-uncooked-pasta-blue-background_114579-45677.jpg?_wi=1",          imageAlt: "elegant italian restaurant interior"},
         {
           name: "David P.",          handle: "@davidp",          testimonial: "A must-visit for any Italian food enthusiast.",          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/delicious-plate-italian-pasta_23-2148189927.jpg",          imageAlt: "elegant italian restaurant interior"},
+          imageSrc: "http://img.b2bpic.net/free-photo/delicious-plate-italian-pasta_23-2148189927.jpg?_wi=1",          imageAlt: "elegant italian restaurant interior"},
         {
           name: "Sarah W.",          handle: "@sarahw",          testimonial: "Simply wonderful, five stars all the way.",          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/vegetable-salad-with-fried-shrimps_140725-44339.jpg",          imageAlt: "elegant italian restaurant interior"},
+          imageSrc: "http://img.b2bpic.net/free-photo/vegetable-salad-with-fried-shrimps_140725-44339.jpg?_wi=1",          imageAlt: "elegant italian restaurant interior"},
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/classic-luxury-restaurant-with-tables-chairs_140725-9388.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/classic-luxury-restaurant-with-tables-chairs_140725-9388.jpg?_wi=2"
       avatars={[
         {
           src: "http://img.b2bpic.net/free-photo/close-up-people-spending-time-together_23-2149152906.jpg",          alt: "Diner portrait 1"},
@@ -100,15 +100,15 @@ export default function LandingPage() {
         {
           id: "f1",          title: "Handmade Pasta",          tags: [
             "Tradition",            "Fresh"],
-          imageSrc: "http://img.b2bpic.net/free-photo/glasses-various-dry-uncooked-pasta-blue-background_114579-45677.jpg"},
+          imageSrc: "http://img.b2bpic.net/free-photo/glasses-various-dry-uncooked-pasta-blue-background_114579-45677.jpg?_wi=2"},
         {
           id: "f2",          title: "Wood Fired Pizza",          tags: [
             "Authentic",            "Crispy"],
-          imageSrc: "http://img.b2bpic.net/free-photo/delicious-plate-italian-pasta_23-2148189927.jpg"},
+          imageSrc: "http://img.b2bpic.net/free-photo/delicious-plate-italian-pasta_23-2148189927.jpg?_wi=2"},
         {
           id: "f3",          title: "Chef Speciality",          tags: [
             "Seasoned",            "Chef"],
-          imageSrc: "http://img.b2bpic.net/free-photo/vegetable-salad-with-fried-shrimps_140725-44339.jpg"},
+          imageSrc: "http://img.b2bpic.net/free-photo/vegetable-salad-with-fried-shrimps_140725-44339.jpg?_wi=2"},
       ]}
       title="Signature Dishes"
       description="Explore our chef-curated selection of traditional Italian favorites."
